@@ -1,0 +1,8 @@
+{
+  "name": "RemindMe Agent - Relentless Todo & Smart Reminder Sentinel",
+  "description": "An intelligent to-do list agent that tracks your tasks and persistently reminds you with escalating audio, visual, and smart notifications until marked done.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
